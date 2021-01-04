@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Egor Shulgin</title><link>https://shulgin-egor.github.io/</link><atom:link href="https://shulgin-egor.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Egor Shulgin</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0300</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Egor Shulgin</title><link>https://shulgin-egor.github.io/</link></image><item><title>Revisiting Stochastic Extragradient</title><link>https://shulgin-egor.github.io/publication/revisiting-stochastic-extragradient/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0300</pubDate><guid>https://shulgin-egor.github.io/publication/revisiting-stochastic-extragradient/</guid><description/></item><item><title>Acceptance to MLSS</title><link>https://shulgin-egor.github.io/post/mlss/</link><pubDate>Wed, 29 Apr 2020 20:08:36 +0400</pubDate><guid>https://shulgin-egor.github.io/post/mlss/</guid><description>&lt;p>I got accepted to
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Egor Shulgin</title><link>https://shulgin-egor.github.io/</link><atom:link href="https://shulgin-egor.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Egor Shulgin</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0100</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Egor Shulgin</title><link>https://shulgin-egor.github.io/</link></image><item><title>Personal</title><link>https://shulgin-egor.github.io/personal/test/</link><pubDate>Mon, 04 Jan 2021 00:00:00 +0100</pubDate><guid>https://shulgin-egor.github.io/personal/test/</guid><description>&lt;h2 id="short-bio">Short Bio&lt;/h2>
+&lt;p>I was born in the Almaty city (Kazakhstan) surrounded by wondeful mountains. When I was two years old, my family moved to Samara city in Russia, where I lived until the start of my undegraduate studies.
+My studies started at Gymnasium # 11 with focus on foreign (English) language. At 8th grade I transfered to technical departement of Medical-Technical Lyceem and spent most of the time on maths, physics and informatics.&lt;/p>
+&lt;h2 id="hobbies">Hobbies&lt;/h2>
+&lt;p>I got started in tourism (mostly backpacking/hiking and water tourism) thanks to my homeroom teacher, head of the Lyceum tourist club. We were lucky to visit Caucasus, Khibiny, Taganai, Altai, Tien Shan (around Lake Issyk-Kul in Kyrgyzstan).&lt;/p>
+&lt;p>A couple of photos with me from hiking&lt;/p>
+&lt;!-- A couple of photos with me from Altai Mountains. -->
+&lt;!-- ![](altai.jpg) -->
+&lt;p>
+&lt;figure>
+&lt;a data-fancybox="" href="https://shulgin-egor.github.io/personal/test/caucasus_huef3214d9ea1e41f0058de60053f845b3_136470_2000x2000_fit_q90_lanczos.jpg" data-caption="On the Lagonaki plateau in the Western Caucasus.">
+&lt;img data-src="https://shulgin-egor.github.io/personal/test/caucasus_huef3214d9ea1e41f0058de60053f845b3_136470_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="960" height="720">
+&lt;/a>
+&lt;figcaption>
+On the Lagonaki plateau in the Western Caucasus.
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>
+&lt;a data-fancybox="" href="https://shulgin-egor.github.io/personal/test/altai_hu3a0be4ea44c8de2dbfa3018e88e626de_811099_2000x2000_fit_q90_lanczos.jpg" data-caption="On the way to Shavlo Lake.">
+&lt;img data-src="https://shulgin-egor.github.io/personal/test/altai_hu3a0be4ea44c8de2dbfa3018e88e626de_811099_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="2560" height="1704">
+&lt;/a>
+&lt;figcaption>
+On the way to Shavlo Lake.
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>
+&lt;a data-fancybox="" href="https://shulgin-egor.github.io/personal/test/shavlinsky_hu97fe7992048836014676e5c9fe7982f5_828014_2000x2000_fit_q90_lanczos.jpg" data-caption="After the Nizhneshavlinsky pass (~3300 high).">
+&lt;img data-src="https://shulgin-egor.github.io/personal/test/shavlinsky_hu97fe7992048836014676e5c9fe7982f5_828014_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="2560" height="1920">
+&lt;/a>
+&lt;figcaption>
+After the Nizhneshavlinsky pass (~3300 high).
+&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>As a child, I was involved in alpine skiing. And now it&amp;rsquo;s my favorite sport.
+&lt;figure>
+&lt;a data-fancybox="" href="https://shulgin-egor.github.io/personal/test/shymbulak_hu316d65d744f911917ab0ae769f9263ce_197891_2000x2000_fit_q90_lanczos.jpg" data-caption="At the Shymbulak Mountain resort near Almaty.">
+&lt;img data-src="https://shulgin-egor.github.io/personal/test/shymbulak_hu316d65d744f911917ab0ae769f9263ce_197891_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="720" height="960">
+&lt;/a>
+&lt;figcaption>
+At the Shymbulak Mountain resort near Almaty.
+&lt;/figcaption>
+&lt;/figure>
+&lt;/p></description></item><item><title>Revisiting Stochastic Extragradient</title><link>https://shulgin-egor.github.io/publication/revisiting-stochastic-extragradient/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0300</pubDate><guid>https://shulgin-egor.github.io/publication/revisiting-stochastic-extragradient/</guid><description/></item><item><title>Acceptance to MLSS</title><link>https://shulgin-egor.github.io/post/mlss/</link><pubDate>Wed, 29 Apr 2020 20:08:36 +0400</pubDate><guid>https://shulgin-egor.github.io/post/mlss/</guid><description>&lt;p>I got accepted to
 &lt;a href="http://mlss.tuebingen.mpg.de/2020/" target="_blank" rel="noopener">The Machine Learning Summer School&lt;/a> in Tübingen, Germany which will be held between 28 June to 10 July fully virtual this year. There were more than 1300 applications and only 180 available slots, so, I am very pleased to be one of those 180 students and looking forward to taking part in this event.&lt;/p>
 &lt;p>&lt;strong>Update:&lt;/strong> I really enjoyed all activities including Roundtables, Speed-datings, Poster sessions as well as Lectures (most of them were livestreamed on
 &lt;a href="https://www.youtube.com/channel/UCBOgpkDhQuYeVVjuzS5Wtxw" target="_blank" rel="noopener">YouTube&lt;/a>) during this Summer School.&lt;/p>
